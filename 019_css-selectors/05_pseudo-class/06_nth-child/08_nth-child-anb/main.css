@@ -1,4 +1,4 @@
-li:nth-child(3n+2) {
+li:nth-child(n+1) {
     color: red;
 }
 
